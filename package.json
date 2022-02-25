@@ -10,6 +10,6 @@
     "finalhandler": "^1.1.2"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "npm run dev"
   }
 }
